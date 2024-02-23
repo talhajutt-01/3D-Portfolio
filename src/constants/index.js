@@ -96,11 +96,6 @@ export const skills = [
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",
-    },
-    {
-        imageUrl: typescript,
-        name: "TypeScript",
-        type: "Frontend",
     }
 ];
 
